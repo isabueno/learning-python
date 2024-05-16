@@ -133,7 +133,5 @@ def almost_there(n):
     else:
         print(False)
 
-almost_there(90)
-almost_there(104) 
-almost_there(150) 
-almost_there(209) 
+def has_33(nums):
+    pass
